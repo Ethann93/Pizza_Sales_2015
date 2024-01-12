@@ -1,5 +1,9 @@
 # Tableau Pizza Sales Dashboard
 
+![Capture](https://github.com/Ethann93/Coffee-Sales-Dashboard/assets/133777296/240f0033-f999-409d-9ac6-4f1b2026a242)
+
+
+
 ## Project Overview
 
 This Tableau project revolves around exploring pizza sales data collected from Kaggle. The aim is to provide an interactive and insightful dashboard for users to analyze key performance indicators (KPIs) related to pizza sales. The dashboard allows users to dynamically explore data and answer questions related to pizza sales, making data-driven decisions more accessible.
